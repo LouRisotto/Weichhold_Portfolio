@@ -8,7 +8,7 @@ Willkommen auf meinem GitHub-Profil. Dieses Repository wurde erstellt, um meine 
 * **Strukturiert:** Ausgeprägtes Organisationstalent bei der Dokumentation und Konzeption.
 
 ## 📄 Dokumente in diesem Repository
-* **[Link zu deinem Lebenslauf](Lebenslauf_Weichhold.pdf):** Mein vollständiger, kopierfähiger Lebenslauf im Markdown-Format.
+* **[Link zu deinem Lebenslauf](Lebenslauf_Weichhoeld.pdf):** Mein vollständiger, kopierfähiger Lebenslauf im Markdown-Format.
 
 ---
 *Hinweis für Personalverantwortliche: Dieses Profil zeigt meine Affinität zu modernen, cloudbasierten Dokumentations-Tools. Ich freue mich auf Ihre Rückmeldung!*
