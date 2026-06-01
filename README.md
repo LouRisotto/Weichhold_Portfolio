@@ -1,14 +1,18 @@
-# Portfolio – Claudia Weichhold 📝
+# Portfolio – [Dein Vorname] Weichhold 📝
 
-Willkommen auf meinem GitHub-Profil. Dieses Repository wurde erstellt, um meine Bewerbungsunterlagen flexibel, modern und digital zur Verfügung zu stellen.
+Willkommen auf meinem Profil-Repository. Für eine optimale Ansicht können Sie meinen Lebenslauf direkt als PDF öffnen oder herunterladen:
 
-## 🎯 Mein Profil auf einen Blick
-* **Zuverlässig:** Gewissenhafte Planung und Ausführung aller Aufgaben.
-* **Lösungsorientiert:** Zielstrebige Bewältigung von neuen Herausforderungen.
-* **Strukturiert:** Ausgeprägtes Organisationstalent bei der Dokumentation und Konzeption.
-
-## 📄 Dokumente in diesem Repository
-* **[Link zu deinem Lebenslauf](Lebenslauf.md):** Mein vollständiger, kopierfähiger Lebenslauf im Markdown-Format.
+📄 **[Lebenslauf als PDF öffnen/herunterladen](./Lebenslauf_Weichhold.pdf)**
 
 ---
-*Hinweis für Personalverantwortliche: Dieses Profil zeigt meine Affinität zu modernen, cloudbasierten Dokumentations-Tools. Ich freue mich auf Ihre Rückmeldung!*
+
+## Lebenslauf (Kopierfähige Textversion)
+
+### Profil
+Als strukturierte, zuverlässige und lösungsorientierte Persönlichkeit zeichne ich mich durch ein hohes Maß an Verantwortungsbewusstsein...
+
+### Kompetenzen
+* MS-Office
+* GitHub: github.com/LouRisotto/Weichhold_Portfolio
+* Datenanalyse & IT-Affinität
+...
